@@ -1,0 +1,10 @@
+rootProject.name = '2021_01_azarov'
+include 'task1'
+include 'task2'
+include 'task3'
+include 'task4'
+include 'task5'
+include 'task6.1'
+include 'task6.2'
+include 'task6.3'
+

@@ -1,0 +1,12 @@
+package common;
+
+public enum MessageType {
+    AUTHORIZATION_REQUEST,
+    AUTHORIZATION_SUCCESS,
+    AUTHORIZATION_FAILURE,
+    MESSAGE,
+    USER_NAME,
+    USER_JOINED,
+    USER_LEFT,
+    USER_DISCONNECT,
+}
